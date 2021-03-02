@@ -31,4 +31,4 @@ generate5X -n [number-generated-serial-number] >> file-name.txt
  - [ ] Add More Generators
  - [ ] [Supported Me](https://paypal.me/pools/c/8xnJw8UTAs)
  - [ ] Support Linux Distro
- - [ ] Created Project (Software)
+ - [x] Created Project (Software)
